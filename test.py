@@ -7,4 +7,4 @@ x = 1
 while True:
 	print ("Test: ",x)
 	x = x + 1
-	time.sleep (2)
+	time.sleep (1)
